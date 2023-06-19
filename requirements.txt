@@ -27,4 +27,10 @@ gitpython==3.1.31
 importlib-metadata==6.6.0
 pyarrow==12.0.0
 packaging==23.1
+python-dateutil== 2.8.2
 protobuf==3.19.6
+requests==2.31.0
+rich==13.3.5
+tenacity==8.2.2
+toml==0.10.2
+tornado==6.3.2
