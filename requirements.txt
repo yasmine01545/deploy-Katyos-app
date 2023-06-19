@@ -34,7 +34,7 @@ rich==13.3.5
 tenacity==8.2.2
 toml==0.10.2
 tornado==6.3.2
-protobuf==3.19.6
+protobuf==3.12
 watchdog==3.0.0
 validators==0.20.0
 tzlocal==5.0.1
