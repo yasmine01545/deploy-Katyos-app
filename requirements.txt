@@ -11,7 +11,7 @@ pandas==2.0.1
 streamlit_lottie
 joblib== 1.2.0
 mtcnn==0.1.1
-dlib==19.2
+dlib==23.1.2
 dlib==  19.24.1
 
 
