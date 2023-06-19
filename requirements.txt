@@ -11,7 +11,7 @@ pandas==1.4.0
 
 Pillow==9.5.0
 Requests==2.31.0
-streamlit==1.15.2
+streamlit==1.22.0
 streamlit_lottie==0.0.3
 streamlit_option_menu==0.3.6
 streamlit_webrtc==0.45.1
