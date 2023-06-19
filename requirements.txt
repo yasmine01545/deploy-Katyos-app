@@ -18,4 +18,4 @@ streamlit_webrtc==0.45.1
 tensorflow==2.12.0
 
 tensorflow_gpu==2.9.1
-tensorflow_intel==2.12.0
+
