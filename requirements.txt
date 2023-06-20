@@ -115,6 +115,6 @@ opencv_python==4.7.0.72
 pyopengl==3.1.5
 
 
-#cmake
-dlib
+cmake
+#dlib
 
