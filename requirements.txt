@@ -3,6 +3,6 @@ streamlit-option-menu
 opencv-python-headless
 mtcnn
 tensorflow
-cmake
-dlib
+#cmake
+#dlib
 
