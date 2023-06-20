@@ -114,4 +114,9 @@ zipp                      ==   3.15.0
 opencv_python==4.7.0.72
 pyopengl==3.1.5
 
-
+build-essential
+libgtk-3-dev
+libboost-all-dev
+freeglut3-dev
+cmake
+libopenblas-dev
