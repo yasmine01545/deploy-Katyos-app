@@ -7,7 +7,7 @@ Pillow==9.2.0
 requests==2.26.0
 streamlit==1.10.0
 streamlit_lottie==0.0.3
-streamlit_option_menu==0.3.6
+
 streamlit_webrtc==0.42.0
 tensorflow
 opencv-python-headless
