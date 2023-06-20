@@ -5,3 +5,4 @@ mtcnn
 tensorflow
 cmake
 dlib
+ pyproject.toml-based projects
