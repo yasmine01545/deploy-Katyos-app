@@ -1,14 +1,1 @@
-av==9.2.0
-keras
-matplotlib==3.5.1
-mediapipe==0.8.9.1
-numpy==1.20.3
-Pillow==9.2.0
-requests==2.26.0
-streamlit==1.10.0
-streamlit_lottie==0.0.3
 
-streamlit_webrtc==0.42.0
-tensorflow
-opencv-python-headless
-sklearn
