@@ -1,3 +1,4 @@
+dlib==19.24.2
 altair
 streamlit-option-menu 
 opencv-python-headless
