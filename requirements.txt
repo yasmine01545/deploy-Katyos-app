@@ -3,6 +3,7 @@ altair
 streamlit-option-menu 
 opencv-python-headless
 mtcnn
+numpy
 tensorflow
 tensorflow-cpu
 #cmake
