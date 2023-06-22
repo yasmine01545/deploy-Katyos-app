@@ -36,7 +36,7 @@ def load_my_model():
     return face_shape_model
 
 # Load the trained model (monture)
-loaded_model_monture_gb = joblib.load('model_monture_74/monture_gb_74_model.pkl')
+loaded_model_monture_gb = joblib.load('monture_gb_74_model.pkl')
 # Load the label encoder dictionary
 le_dict = joblib.load('model_monture_74/le_dict.pkl')
 loaded_model_materiaux=joblib.load('model_monture_74/materiaux_model_99.pkl')
