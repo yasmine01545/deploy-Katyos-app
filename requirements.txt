@@ -5,7 +5,7 @@ opencv-python-headless
 #streamlit-option-menu 
 
 
-#mtcnn
+mtcnn
 #numpy
 #scikit-learn
 #tensorflow
