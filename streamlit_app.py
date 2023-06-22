@@ -565,7 +565,8 @@ def main():
     if 'image_array' not in st.session_state:
         st.session_state['image_array'] = None 
     def upload_photo():
-        
+        st.title("Uploading Files")
+        st.markdown('------')
         image = st.file_uploader(
             "Veuillez télécharger une photo de profil",
             type=["png", "jpg", "jpeg", "bmp", "svg"],
