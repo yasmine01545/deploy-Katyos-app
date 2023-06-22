@@ -2,7 +2,7 @@ import streamlit as st
 
 import time
 import json
-import cv2
+
 import mtcnn
 import numpy as np
 from PIL import Image
@@ -12,7 +12,7 @@ import tensorflow as tf
 
 # from streamlit.components.v1 import html
 import requests
-
+import cv2
 import math
 import matplotlib.pyplot as plt
 import pandas as pd
