@@ -404,7 +404,7 @@ def main():
     # page configuration
     st.set_page_config(
         page_title="KatYos Virtual Assistant",
-        page_icon="💬,🤖",
+        page_icon="💬"
     )
 
     # to remove stremlit app in the footer and humburger
