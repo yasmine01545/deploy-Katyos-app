@@ -3,7 +3,7 @@ opencv-python-headless
 #altair
 #streamlit
 #streamlit-option-menu 
-
+streamlit_lottie
 matplotlib
 mtcnn
 #numpy
