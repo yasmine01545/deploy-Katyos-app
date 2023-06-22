@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_option_menu import option_menu
+
 import time
 import json
 import cv2
@@ -12,14 +12,14 @@ import tensorflow as tf
 
 # from streamlit.components.v1 import html
 import requests
-import dlib
+
 import math
 import matplotlib.pyplot as plt
 import pandas as pd
 from streamlit_lottie import st_lottie
 import joblib
-
-
+from streamlit_option_menu import option_menu
+import dlib
 # Initialize state on first run
 if (
     "btn_mesure" not in st.session_state
