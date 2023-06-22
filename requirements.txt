@@ -1,10 +1,10 @@
-#dlib==19.24.2
-#altair
-#streamlit-option-menu 
-#opencv-python-headless
-#mtcnn
-#tensorflow
-#tensorflow-cpu
+dlib==19.24.2
+altair
+streamlit-option-menu 
+opencv-python-headless
+mtcnn
+tensorflow
+tensorflow-cpu
 #cmake
-#dlib
+dlib
 
