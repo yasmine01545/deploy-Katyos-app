@@ -15,4 +15,4 @@ tensorflow-cpu
 #dlib
 dlib-bin
 av
-webrtc_streamer
+streamlit_webrtc
