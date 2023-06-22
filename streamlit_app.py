@@ -765,10 +765,10 @@ def main():
             valid_formes_soleil_katyos = ["Aviator", "Carrées", "Masque", "Oeil de chat", "Ovales", "Papillon", "Pilote", "Rectangulaires", "Rondes"]
             valid_formes_de_vue_katyos = ["Carrées", "Oeil de chat", "Ovales", "Papillon", "Pilote", "Rectangulaires", "Rondes"]
             encoded_select_type = select_type.replace(" ", "-")
-
+            encoded_prediction_monture=prediction_monture.replace(" ", "+")
             if select_type == "de soleil" and prediction_monture in valid_formes_soleil_katyos:
                 
-                url = f"https://katyos.com/6-lunettes-{encoded_select_type}-?q=Formes-{prediction_monture}"
+                url = f"https://katyos.com/6-lunettes-{encoded_select_type}-?q=Formes-{encoded_prediction_monture}"
                 #st.subheader("vous pouver trouver votre monture dans le notre mall :",url)
            
                 st.subheader("Vous pouvez trouver votre monture dans notre mall :")
@@ -779,7 +779,7 @@ def main():
             elif select_type == "de vue" and prediction_monture in valid_formes_de_vue_katyos:
                 
                 
-                url = f"https://katyos.com/3-lunettes-{encoded_select_type}-?q=Formes-{prediction_monture}"
+                url = f"https://katyos.com/3-lunettes-{encoded_select_type}-?q=Formes-{encoded_prediction_monture}"
                 #st.subheader("vous pouver trouver votre monture dans le notre mall : " ,url)
                                 
                 st.subheader("Vous pouvez trouver votre monture dans notre mall :")
