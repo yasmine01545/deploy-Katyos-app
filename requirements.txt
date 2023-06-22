@@ -9,7 +9,7 @@ mtcnn
 #numpy
 #scikit-learn
 #tensorflow
-#tensorflow-cpu
+tensorflow-cpu
 #cmake
 #dlib
 
