@@ -2,7 +2,7 @@
 #altair
 #streamlit
 #streamlit-option-menu 
-#opencv-python-headless
+opencv-python-headless
 #mtcnn
 #numpy
 #scikit-learn
@@ -10,4 +10,4 @@
 #tensorflow-cpu
 #cmake
 #dlib
-streamlit_option_menu
+
