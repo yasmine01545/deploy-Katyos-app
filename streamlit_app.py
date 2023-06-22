@@ -494,8 +494,8 @@ def main():
                         
                 }       </style>""", unsafe_allow_html=True)
             btn = st.button("Before we Start")
-            if btn:
-                tips()
+            #if btn:
+                #tips()
                 
                 #st.sidebar.markdown("You clicked the button!")                
                   
