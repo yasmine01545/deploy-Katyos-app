@@ -4,6 +4,7 @@ streamlit-option-menu
 opencv-python-headless
 mtcnn
 tensorflow
+tensorflow-cpu
 #cmake
 #dlib
 
