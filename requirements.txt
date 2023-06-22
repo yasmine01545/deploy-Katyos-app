@@ -4,6 +4,7 @@ streamlit-option-menu
 opencv-python-headless
 mtcnn
 numpy
+scikit-learn
 tensorflow
 tensorflow-cpu
 #cmake
