@@ -2,7 +2,7 @@ opencv-python-headless
 #dlib==19.24.2
 #altair
 #streamlit
-#streamlit-option-menu 
+streamlit-option-menu 
 streamlit_lottie
 joblib
 matplotlib
