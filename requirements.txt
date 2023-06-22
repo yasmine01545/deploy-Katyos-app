@@ -8,7 +8,7 @@ joblib
 matplotlib
 mtcnn
 #numpy
-#scikit-learn
+scikit-learn
 #tensorflow
 tensorflow-cpu
 #cmake
