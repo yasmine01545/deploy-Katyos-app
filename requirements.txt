@@ -1,10 +1,11 @@
 dlib==19.24.2
 altair
+streamlit
 streamlit-option-menu 
 opencv-python-headless
 mtcnn
-numpy
-scikit-learn
+#numpy
+#scikit-learn
 tensorflow
 tensorflow-cpu
 #cmake
