@@ -46,7 +46,7 @@ def analyze_facial_features(image_array):
     # Initialize the face detector and landmark predictor
     detector = dlib.get_frontal_face_detector()
     predictor = dlib.shape_predictor(
-        "C:/Users/msi/Desktop/katyos/code organiser/shape_predictor_81_facee_landmarks.dat"
+        "shape_predictor_81_facee_landmarks.dat"
     )
     gray = cv2.cvtColor(image_array, cv2.COLOR_BGR2GRAY)
     # Detect faces in the image
