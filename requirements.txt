@@ -6,5 +6,5 @@ mtcnn
 tensorflow
 tensorflow-cpu
 #cmake
-#dlib
+dlib
 
