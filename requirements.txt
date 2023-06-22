@@ -4,7 +4,7 @@ opencv-python-headless
 #streamlit
 #streamlit-option-menu 
 
-
+matplotlib
 mtcnn
 #numpy
 #scikit-learn
